@@ -1,16 +1,16 @@
 (function () {
   // ===== TEXTY – upravte zde =====
   var T = {
-    forYou: "Pro vás",
-    title1: "Veselé Vánoce",
-    title2: "a šťastný nový rok",
-    hello: "Vážení obchodní partneři,",
-    p1: "rok 2026 se chýlí ke konci a my bychom vám rádi poděkovali za důvěru a spolupráci, kterou jste nám v uplynulém roce věnovali.",
-    p2: "Přejeme vám klidné a radostné vánoční svátky a do nového roku 2027 hodně zdraví, spokojenosti a úspěchů. Těšíme se na další spolupráci.",
-    regards: "S přátelským pozdravem",
-    team: "tým KRAJICZECH",
-    turn: "Klikněte nebo klepněte pro otočení",
-    again: "Přehrát znovu"
+    forYou: "For you",
+    title1: "Merry Christmas",
+    title2: "and a Happy New Year",
+    hello: "Dear Business Partners,",
+    p1: "As 2026 draws to a close, we would like to thank you for the trust and cooperation you have shown us over the past year.",
+    p2: "We wish you a peaceful and joyful Christmas and good health, happiness and success in 2027. We look forward to working with you again.",
+    regards: "Kind regards,",
+    team: "The KRAJICZECH Team",
+    turn: "Click or tap to turn",
+    again: "Play again"
   };
   // ===============================
 

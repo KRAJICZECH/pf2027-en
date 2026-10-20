@@ -233,11 +233,12 @@ button:focus-visible { outline: 2px solid var(--orange); outline-offset: 3px; }
 .cover h1 {
   margin: 0; font-family: var(--display); font-weight: 500; font-style: italic; color: var(--ink);
   font-synthesis: none; /* use the real Montserrat Italic 500, never a slanted upright */
-  /* largest size at which "a šťastný nový rok" (9.28em) stays on one line with ≥ 6 % of the page width free at each side */
-  font-size: calc(var(--u) * 21.7); line-height: 1.02; text-wrap: balance;
+  /* largest size at which "and a Happy New Year" (11.82em) stays on one line with ≥ 6 % of the page width free at each side */
+  font-size: calc(var(--u) * 17.4); line-height: 1.02; text-wrap: balance;
 }
 @media (min-width: 760px) {
-  .cover h1 { font-size: calc(var(--u) * 24); }
+  /* landscape: largest size at which "and a Happy New Year" fits beside the tree (page 435u − padding 2 × 26u − tree 140u − gap 16u = 227u; 19.2u wraps on sub-pixel rounding) */
+  .cover h1 { font-size: calc(var(--u) * 19.1); }
 }
 .cover h1 [data-t="title2"] { display: block; }
 
