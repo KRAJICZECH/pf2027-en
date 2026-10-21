@@ -5,10 +5,11 @@
     title1: "Merry Christmas",
     title2: "and a Happy New Year",
     hello: "Dear Business Partners,",
-    p1: "As 2026 draws to a close, we would like to thank you for the trust and cooperation you have shown us over the past year.",
-    p2: "We wish you a peaceful and joyful Christmas and good health, happiness and success in 2027. We look forward to working with you again.",
-    regards: "Kind regards,",
-    team: "The KRAJICZECH Team",
+    p1: "As the year draws to a close, we would like to thank you for your trust and cooperation throughout 2026.",
+    p2: "We wish you a peaceful and joyful Christmas, as well as good health, happiness, and success in the New Year.",
+    p3: "We look forward to continuing our successful cooperation in 2027!",
+    regards: "Best regards,",
+    team: "The KRAJICZECH team",
     turn: "Click or tap to turn",
     again: "Play again"
   };
